@@ -8,3 +8,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - TypeScript
 - Tailwild
+- Phosphor Icons
