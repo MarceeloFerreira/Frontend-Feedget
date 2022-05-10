@@ -9,3 +9,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Tailwild
 - Phosphor Icons
+- HeadlessUI
